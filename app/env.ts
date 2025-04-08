@@ -1,0 +1,2 @@
+export const OPENWEATHER_API_KEY = "e8da5804117bc50f3950b9f7ee461b2d"
+export const GEMINI_API_KEY = "AIzaSyDR1g11RoNMPk-sd8EY54dgjSD6VyOKiBA"
